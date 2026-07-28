@@ -249,6 +249,9 @@ public class Aryan {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+
+![snake gif](https://github.com/iamaryan7/iamaryan7/blob/output/github-snake-dark.svg) 
+
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=180&section=footer"/>
