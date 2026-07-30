@@ -1,11 +1,11 @@
-# 👋 Hey, I'm **Aryan Kale**
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=280&section=header&text=Aryan%20Kale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20UI%2FUX%20Designer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;UI%2FUX+Designer;Cloud+%26+DevOps+Enthusiast;Building+Digital+Experiences"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Java+Developer;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=iamaryan7&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
@@ -125,11 +125,7 @@ public class Aryan {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-# 💼 Experience
 
-### 💻 Freelance Full Stack Developer
-
-**Nov 2025 – Present**
 
 - 🚀 Building scalable web applications
 - ⚛️ Developing React & Spring Boot projects
